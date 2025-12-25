@@ -8,7 +8,8 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue)](https://youssefnkiza1.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nkizayoussef@gmail.com)
-  [![CV](https://img.shields.io/badge/Télécharger-CV-green)](https://youssefnkiza1.github.io/portfolio/CV_Youssef_Nkiza.pdf)
+  [![CV](https://img.shields.io/badge/📄_CV_avec_QR_Code-64ffda?style=for-the-badge)](https://youssefnkiza1.github.io/portfolio/CV_Youssef_Nkiza_Portfolio.pdf)
+
   
 </div>
 
@@ -84,6 +85,6 @@ Site portfolio interactif présentant mes compétences et expériences professio
   
   ### ⭐ N'hésitez pas à explorer mes repositories et à me contacter pour des opportunités!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=[your-username]&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=youssefnkiza1&color=blueviolet)
   
 </div>
