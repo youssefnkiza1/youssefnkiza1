@@ -8,7 +8,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue)](https://youssefnkiza1.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nkizayoussef@gmail.com)
-  [![CV](https://img.shields.io/badge/Télécharger-CV-green)](https://youssefnkiza1.github.io/portfolio/CV_Youssef_Nkiza_Portfolio.pdf)
+  [![CV](https://img.shields.io/badge/Télécharger-CV-green)](https://github.com/youssefnkiza1/youssefnkiza1/blob/09ebe9568ade7bfec1393bd388e18c4fcf2dee59/CV_Youssef_Nkiza_Portfolio.pdf)
   
 </div>
 
