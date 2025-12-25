@@ -4,7 +4,7 @@
   
   ### 🖥️ Technicien Spécialisé en Infrastructure Digitale
   
-  ![Banner](https://github.com/youssefnkiza1/youssefnkiza1/blob/main/banner.png?raw=true)
+  ![Banner](https://github.com/youssefnkiza1/youssefnkiza1/blob/main/bnr.png?raw=true)
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue)](https://youssefnkiza1.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nkizayoussef@gmail.com)
