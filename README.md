@@ -42,9 +42,11 @@ Je suis un **Technicien Spécialisé en Infrastructure Digitale** avec une exper
 
 <div align="center">
   
-   ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefnkiza1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff)
+ ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefnkiza1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&count_private=true&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefnkiza1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefnkiza1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=youssefnkiza1&theme=dark&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakNum=64FFDA&sideNums=64FFDA&currStreakLabel=64FFDA&sideLabels=64FFDA&dates=8892B0)
 </div>
 
 ## 📂 Projets Phares
