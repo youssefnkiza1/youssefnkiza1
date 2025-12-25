@@ -8,8 +8,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue)](https://youssefnkiza1.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nkizayoussef@gmail.com)
-  [![CV](https://img.shields.io/badge/📄Download_CV-64ffda?style=for-the-badge)](https://youssefnkiza1.github.io/portfolio/CV_Youssef_Nkiza_Portfolio.pdf)
-<a href="https://example.com/path/to/your/cv.pdf" style="background-color: green; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Download CV</a>
+  [![CV](https://img.shields.io/badge/Télécharger-CV-green)](https://[your-username].github.io/portfolio/CV_Youssef_Nkiza_Portfolio.pdf)
   
 </div>
 
