@@ -9,7 +9,11 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue)](https://youssefnkiza1.github.io/portfolio/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nkizayoussef@gmail.com)
   [![CV](https://img.shields.io/badge/📄_CV_avec_QR_Code-64ffda?style=for-the-badge)](https://youssefnkiza1.github.io/portfolio/CV_Youssef_Nkiza_Portfolio.pdf)
-
+<div align="center">
+  <a href="https://youssefnkiza1.github.io/portfolio/CV_Youssef_Nkiza_Portfolio.pdf">
+    <img src="https://img.shields.io/badge/Télécharger_le_CV-0a192f?style=flat-square&logo=adobeacrobatreader&logoColor=64ffda" alt="Download CV">
+  </a>
+</div>
   
 </div>
 
